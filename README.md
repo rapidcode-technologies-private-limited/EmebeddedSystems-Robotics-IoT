@@ -4,12 +4,12 @@ Robotics, IoT, Embedded Systems, Sensors, Arduino, Raspberry Pi, PCB Designing<b
 <br/><br/>
 Participants:<br/>
 karan Sharma,<br/>
-Susheel,<br/> 
+Susheel,<br/>
 Kamini Singh.<br/>
 
 #Repositiries Structure:<br/>
-Folder- Code: This a folder, which contains Temporary Code, part of any project/learning Cariculam<br/>
-Folder- ProjectBeta: This a folder, which contains Final Project Code/Hardware Circuits/reports designed and deveoped by Team-Seekers<br/>
+Folder- Alpha_programs: This a folder, which contains Temporary Code, part of any project/learning Cariculam<br/>
+Folder- Project_Beta: This a folder, which contains Final Project Code/Hardware Circuits/reports designed and deveoped by Team-Seekers<br/>
 Folder- Libraries: This is a folder, which contains standard libraries required amongst team to work around various platforms<br/>
 <br/>
 Subfolder: Subfolders will comes under Main folder, Subfolders will be named as mentioned:<br/>
