@@ -4,11 +4,11 @@
 // Author: Susheel kumar (susheelkm2@gmail.com)
 // $ID: Motor control receiver.pde, v 1.4 09/06/2019 6:30:00 PM
 #include <VirtualWire.h>
-#define ledpin= 13;
-#define rmHIGHpin=3;
-#define rmLOWpin=5;
-#define lmHIGHpin=9;
-#define lmLOWpin=6;
+#define ledpin 13
+#define rmHIGHpin 3
+#define rmLOWpin 5
+#define lmHIGHpin 9
+#define lmLOWpin 6
 
 boolean printS= false, printF=false, printR = false, printB= false, printL= false;
 
