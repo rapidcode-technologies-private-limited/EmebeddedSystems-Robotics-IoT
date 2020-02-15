@@ -3,8 +3,8 @@ Robotics, IoT, Embedded Systems, Sensors, Arduino, Raspberry Pi, PCB Designing<b
 <br/><br/>
 
 #Repositiries Structure:<br/>
-Folder- Alpha_programs: This a folder, which contains Temporary Code, part of any project/learning Cariculam<br/>
-Folder- Project_Beta: This a folder, which contains Final Project Code/Hardware Circuits/reports designed and deveoped by Team-Seekers<br/>
+Folder- Alpha_programs: This a folder, which contains Temporary Code, part of any project/learning Cariculum<br/>
+Folder- Project_Beta: This a folder, which contains Final Project Code/Hardware Circuits/reports designed and deveoped<br/>
 Folder- Libraries: This is a folder, which contains standard libraries required amongst team to work around various platforms<br/>
 <br/>
 Subfolder: Subfolders will comes under Main folder, Subfolders will be named as mentioned:<br/>
@@ -19,4 +19,4 @@ Use standard naming conventions for folders, so that team can understand the fol
 <br/>
 -By Team Rapidcode<br/>
  Author: Abhishek Nair<br/>
- June 2019<br/>
+ Feb 2020<br/>
