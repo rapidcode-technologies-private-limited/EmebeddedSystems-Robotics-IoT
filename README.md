@@ -1,11 +1,6 @@
-# Team-Seekers<br/>
 Team-2019<br/>
 Robotics, IoT, Embedded Systems, Sensors, Arduino, Raspberry Pi, PCB Designing<br/>
 <br/><br/>
-Participants:<br/>
-karan Sharma,<br/>
-Susheel,<br/>
-Kamini Singh.<br/>
 
 #Repositiries Structure:<br/>
 Folder- Alpha_programs: This a folder, which contains Temporary Code, part of any project/learning Cariculam<br/>
